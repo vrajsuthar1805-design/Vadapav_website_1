@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <circle cx="50" cy="50" r="48" fill="#b91c1c" stroke="#f59e0b" stroke-width="4"/>
+  <circle cx="50" cy="50" r="38" fill="#180707"/>
+  <!-- Vadapav pav top -->
+  <path d="M 28 42 C 28 28, 72 28, 72 42 Z" fill="#d97706" stroke="#fbbf24" stroke-width="2"/>
+  <!-- Molten cheese & thecha -->
+  <path d="M 27 42 C 35 48, 45 40, 52 48 C 60 42, 68 46, 73 42 C 73 54, 27 54, 27 42 Z" fill="#f59e0b"/>
+  <!-- Crispy Vada patty -->
+  <ellipse cx="50" cy="48" rx="20" ry="8" fill="#b45309" stroke="#fef08a" stroke-width="1.5"/>
+  <!-- Pav bottom -->
+  <path d="M 28 54 C 28 66, 72 66, 72 54 Z" fill="#c2410c" stroke="#fbbf24" stroke-width="2"/>
+  <!-- Festive diya flame on top -->
+  <path d="M 50 14 C 47 20, 44 23, 44 26 C 44 29, 47 31, 50 31 C 53 31, 56 29, 56 26 C 56 23, 53 20, 50 14 Z" fill="#fef08a" stroke="#ea580c" stroke-width="1"/>
+</svg>
